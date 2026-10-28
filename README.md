@@ -8,3 +8,5 @@
   - `docs/` — 문서, 자료
   - `scripts/` — 스크립트, 도구
   - `notes/` — 메모, 아이디어
+- `apps/` — 앱
+  - `chord-accompanist/` — 코드 반주 모바일 앱 (Expo)
